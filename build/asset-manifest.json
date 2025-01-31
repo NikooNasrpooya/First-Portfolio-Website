@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.b5d1ba6e.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.d9a6d0f8.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.d9a6d0f8.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.bc6b0371.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.bc6b0371.js.map",
+    "static/js/2.cc0bc21e.chunk.js": "/portfolio-website/static/js/2.cc0bc21e.chunk.js",
+    "static/js/2.cc0bc21e.chunk.js.map": "/portfolio-website/static/js/2.cc0bc21e.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "precache-manifest.11130f1bd3f5b688efe31ef619f94361.js": "/portfolio-website/precache-manifest.11130f1bd3f5b688efe31ef619f94361.js",
+    "service-worker.js": "/portfolio-website/service-worker.js",
+    "static/css/main.b5d1ba6e.chunk.css.map": "/portfolio-website/static/css/main.b5d1ba6e.chunk.css.map",
+    "static/js/2.cc0bc21e.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.cc0bc21e.chunk.js.LICENSE.txt",
+    "static/media/CSSGrid.jpg": "/portfolio-website/static/media/CSSGrid.c3cc6db2.jpg",
+    "static/media/css.png": "/portfolio-website/static/media/css.cf71a98c.png",
+    "static/media/git.png": "/portfolio-website/static/media/git.9a073b4c.png",
+    "static/media/github.png": "/portfolio-website/static/media/github.226496ac.png",
+    "static/media/graphql.png": "/portfolio-website/static/media/graphql.7c64d4f7.png",
+    "static/media/heroImage.png": "/portfolio-website/static/media/heroImage.5b9e57e9.png",
+    "static/media/html.png": "/portfolio-website/static/media/html.a80a9001.png",
+    "static/media/installNode.jpg": "/portfolio-website/static/media/installNode.dbf4a3c9.jpg",
+    "static/media/javascript.png": "/portfolio-website/static/media/javascript.68777e97.png",
+    "static/media/navbar.jpg": "/portfolio-website/static/media/navbar.b149a474.jpg",
+    "static/media/nextjs.png": "/portfolio-website/static/media/nextjs.a2488252.png",
+    "static/media/node.png": "/portfolio-website/static/media/node.4380e99d.png",
+    "static/media/python.png": "/portfolio-website/static/media/python.8eacb570.png",
+    "static/media/react.png": "/portfolio-website/static/media/react.1b288084.png",
+    "static/media/reactSmooth.jpg": "/portfolio-website/static/media/reactSmooth.6c0ea41b.jpg",
+    "static/media/reactWeather.jpg": "/portfolio-website/static/media/reactWeather.ef9618a3.jpg",
+    "static/media/tailwind.png": "/portfolio-website/static/media/tailwind.4d88ca03.png",
+    "static/media/toDoList.png": "/portfolio-website/static/media/toDoList.c19f1fb5.png",
+    "static/media/visualstudio.png": "/portfolio-website/static/media/visualstudio.2e432644.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc6b0371.js",
+    "static/js/2.cc0bc21e.chunk.js",
+    "static/css/main.b5d1ba6e.chunk.css",
+    "static/js/main.d9a6d0f8.chunk.js"
+  ]
+}
